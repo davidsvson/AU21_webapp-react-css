@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AU21_webapp-react-css/static/css/main.5269dc28.css",
+    "main.js": "/AU21_webapp-react-css/static/js/main.8f5a3af8.js",
+    "static/js/787.c73ce1fa.chunk.js": "/AU21_webapp-react-css/static/js/787.c73ce1fa.chunk.js",
+    "static/media/cat3.jpeg": "/AU21_webapp-react-css/static/media/cat3.bc3eecc31607ca00d65a.jpeg",
+    "static/media/cat4.jpeg": "/AU21_webapp-react-css/static/media/cat4.c5693c3aac0d98958e18.jpeg",
+    "static/media/cat1.jpeg": "/AU21_webapp-react-css/static/media/cat1.2340310390770bc3699f.jpeg",
+    "static/media/cat2.jpeg": "/AU21_webapp-react-css/static/media/cat2.ad1af3a9f81b98bb26e0.jpeg",
+    "static/media/logo.svg": "/AU21_webapp-react-css/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AU21_webapp-react-css/index.html",
+    "main.5269dc28.css.map": "/AU21_webapp-react-css/static/css/main.5269dc28.css.map",
+    "main.8f5a3af8.js.map": "/AU21_webapp-react-css/static/js/main.8f5a3af8.js.map",
+    "787.c73ce1fa.chunk.js.map": "/AU21_webapp-react-css/static/js/787.c73ce1fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5269dc28.css",
+    "static/js/main.8f5a3af8.js"
+  ]
+}
